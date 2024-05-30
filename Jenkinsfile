@@ -1,3 +1,4 @@
+/* This is the demo pipeline executing through github webhook  */
 @Library("mylibs") _
 pipeline {
   /*agent any
